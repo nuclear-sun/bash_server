@@ -3,7 +3,7 @@
 set -f
 
 PORT=5000
-PASS=nuclear
+PASS=123456
 
 function ret() {
     echo "$@" >> response
